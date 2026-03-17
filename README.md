@@ -1,0 +1,1 @@
+This repository contains the complete code  used in the paper 《Seasonal-spatial distribution and prevailing wind analysis of Martian dust devils in Amazonis Planitia using a multi-scale attention network》.
